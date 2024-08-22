@@ -8,8 +8,7 @@
 # Ignore Python bytecode and environment directories
 __pycache__/
 *.pyc
-.env/
-.venv/
+venv/
 
 # Ignore environment-specific files
 .DS_Store
