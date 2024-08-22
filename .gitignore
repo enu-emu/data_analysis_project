@@ -1,0 +1,15 @@
+# Ignore Word Documents
+*.doc
+*.docx
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode and environment directories
+__pycache__/
+*.pyc
+.env/
+.venv/
+
+# Ignore environment-specific files
+.DS_Store
